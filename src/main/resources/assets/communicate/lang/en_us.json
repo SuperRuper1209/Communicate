@@ -1,0 +1,6 @@
+{
+  "block.communicate.device_main_block": "Communicator system block",
+  "block.communicate.device_antenna_block": "Communicator antenna",
+  "item.communicate.device_main_block": "Communicator system block",
+  "item.communicate.device_antenna_block": "Communicator antenna"
+}

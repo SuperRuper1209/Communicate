@@ -1,0 +1,16 @@
+modLoader="javafml"
+loaderVersion="[34, 35, 36)"
+license="Let's be honest, I didn't reserve any rights."
+[[mods]]
+modId="communicate"
+version="1.0"
+displayName="Communicate"
+logoFile="logo.png"
+authors="SuperRuper1209"
+description='''
+Mod to play with your friends if you are bored of the regular chat system.
+With this mod you will be able to chat only in range of 50 blocks.
+You can create communicate devices to chat without range if you both will be near it.
+To make a communicator you must place communicator system block and antenna on top of it.
+When you will get iron ingot you will get recipes in recipe book.
+'''
